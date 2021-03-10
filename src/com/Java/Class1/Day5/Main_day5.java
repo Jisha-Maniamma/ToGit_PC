@@ -11,6 +11,7 @@ public class Main_day5 {
         projects.addFirst("Project0");
         print(projects);
         System.out.println("-----------");
+
         System.out.println(projects.getFirst());
         System.out.println(projects.getLast());
         System.out.println(projects.getClass());
@@ -20,7 +21,7 @@ public class Main_day5 {
 
 
         ArrayToList(array1);
-
+        System.out.println("-----------");
 
     }
 
